@@ -1,11 +1,11 @@
 # Site settings
 author: Beverly Appleton
-title: 
+title: A journey to become and engineer 
 header-img: img/home-bg.png
 email: bfcain19@gmail.com
 copyright_name: Beverly Appleton
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: bf_cain
 github_username:  bfoxcain
